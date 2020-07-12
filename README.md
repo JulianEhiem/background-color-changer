@@ -15,7 +15,7 @@ Here's a working live demo of the project: https://julianehiem.github.io/backgro
 In additional to the foundational HTML, CSS and JS in this project, I also made use of a simple AJAX request to a local folder.
 
 ## Links
-- This porject was inspired by https://jsbeginners.com/change-background-color-project/
+- This project was inspired by https://jsbeginners.com/change-background-color-project/
 - Repository:https://github.com/JulianEhiem/background-color-changer/
 
 ## License
