@@ -1,5 +1,5 @@
 # Background Color Changer
-> This is a simple project that changes the backgound color of the page and returns the name of the color.
+> This is a simple project that changes the background color of the page and returns the name of the color.
 
 ![](images/bg-color-changer-screenshot.png)
 
